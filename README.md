@@ -2,7 +2,7 @@
 
 <html>
 <body> BEST LINK EVER
-<title> BEST LINK </title>
+
 
 <h1> BEST LINK EVER </h1>
 
